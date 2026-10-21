@@ -39,3 +39,12 @@ pcb_knowledge_base/
 ## 数据时效
 
 市场数据截至 2025 年（来源见 02_行业格局）。建议每季度核对一次市场数据文件，每年更新一次趋势判断。
+
+## 许可证
+
+本项目采用 **GNU Affero General Public License v3.0（AGPL-3.0-or-later）** 许可，完整条款见 [LICENSE](LICENSE)。
+
+Copyright (C) 2026 Quentin Kam
+
+- 允许自由使用、修改、分发，但修改后的版本须以同一许可证开源；
+- 若将本项目（或其修改版）作为网络服务对外提供，必须向用户提供对应的完整源代码。
